@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|c:\\users\\sambo\\onedrive\\documents\\asp.net.core\\zambia\\zambiaapi\\models\\dto\\regionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|solutionrelative:zambiaapi\\models\\dto\\regionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|c:\\users\\sambo\\onedrive\\documents\\asp.net.core\\zambia\\zambiaapi\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|solutionrelative:zambiaapi\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|c:\\users\\sambo\\onedrive\\documents\\asp.net.core\\zambia\\zambiaapi\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|solutionrelative:zambiaapi\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|c:\\users\\sambo\\onedrive\\documents\\asp.net.core\\zambia\\zambiaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|solutionrelative:zambiaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|c:\\users\\sambo\\onedrive\\documents\\asp.net.core\\zambia\\zambiaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|solutionrelative:zambiaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|c:\\users\\sambo\\onedrive\\documents\\asp.net.core\\zambia\\zambiaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|solutionrelative:zambiaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|c:\\users\\sambo\\onedrive\\documents\\asp.net.core\\zambia\\zambiaapi\\migrations\\20250227214108_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|solutionrelative:zambiaapi\\migrations\\20250227214108_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|c:\\users\\sambo\\onedrive\\documents\\asp.net.core\\zambia\\zambiaapi\\models\\domain\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|solutionrelative:zambiaapi\\models\\domain\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Migrations\\20250227213507_Initial Migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZambiaAPI\\Migrations\\20250227213507_Initial Migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|c:\\users\\sambo\\onedrive\\documents\\asp.net.core\\zambia\\zambiaapi\\models\\domain\\accommodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|solutionrelative:zambiaapi\\models\\domain\\accommodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|c:\\users\\sambo\\onedrive\\documents\\asp.net.core\\zambia\\zambiaapi\\models\\domain\\tourguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|solutionrelative:zambiaapi\\models\\domain\\tourguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|c:\\users\\sambo\\onedrive\\documents\\asp.net.core\\zambia\\zambiaapi\\models\\domain\\touristattractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|solutionrelative:zambiaapi\\models\\domain\\touristattractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|c:\\users\\sambo\\onedrive\\documents\\asp.net.core\\zambia\\zambiaapi\\models\\domain\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|solutionrelative:zambiaapi\\models\\domain\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|c:\\users\\sambo\\onedrive\\documents\\asp.net.core\\zambia\\zambiaapi\\data\\zambiadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|solutionrelative:zambiaapi\\data\\zambiadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|c:\\users\\sambo\\onedrive\\documents\\asp.net.core\\zambia\\zambiaapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|solutionrelative:zambiaapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|c:\\users\\sambo\\onedrive\\documents\\asp.net.core\\zambia\\zambiaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A185AC53-4010-4EF8-8C97-8CF336DB9117}|ZambiaAPI\\ZambiaAPI.csproj|solutionrelative:zambiaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegionsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Models\\DTO\\RegionsDTO.cs",
+              "RelativeDocumentMoniker": "ZambiaAPI\\Models\\DTO\\RegionsDTO.cs",
+              "ToolTip": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Models\\DTO\\RegionsDTO.cs",
+              "RelativeToolTip": "ZambiaAPI\\Models\\DTO\\RegionsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:24:13.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "ZambiaAPI\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "ZambiaAPI\\Controllers\\RegionsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:12:13.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250227214108_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Migrations\\20250227214108_Initial Migration.cs",
+              "RelativeDocumentMoniker": "ZambiaAPI\\Migrations\\20250227214108_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Migrations\\20250227214108_Initial Migration.cs",
+              "RelativeToolTip": "ZambiaAPI\\Migrations\\20250227214108_Initial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T21:41:08.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250227213507_Initial Migration2.cs",
+              "DocumentMoniker": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Migrations\\20250227213507_Initial Migration2.cs",
+              "RelativeDocumentMoniker": "ZambiaAPI\\Migrations\\20250227213507_Initial Migration2.cs",
+              "ToolTip": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Migrations\\20250227213507_Initial Migration2.cs",
+              "RelativeToolTip": "ZambiaAPI\\Migrations\\20250227213507_Initial Migration2.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T21:35:07.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ZambiaAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\appsettings.json",
+              "RelativeToolTip": "ZambiaAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T10:10:57.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Models\\Domain\\Transport.cs",
+              "RelativeDocumentMoniker": "ZambiaAPI\\Models\\Domain\\Transport.cs",
+              "ToolTip": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Models\\Domain\\Transport.cs",
+              "RelativeToolTip": "ZambiaAPI\\Models\\Domain\\Transport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:08:20.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TourGuide.cs",
+              "DocumentMoniker": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Models\\Domain\\TourGuide.cs",
+              "RelativeDocumentMoniker": "ZambiaAPI\\Models\\Domain\\TourGuide.cs",
+              "ToolTip": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Models\\Domain\\TourGuide.cs",
+              "RelativeToolTip": "ZambiaAPI\\Models\\Domain\\TourGuide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T20:50:08.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Accommodation.cs",
+              "DocumentMoniker": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Models\\Domain\\Accommodation.cs",
+              "RelativeDocumentMoniker": "ZambiaAPI\\Models\\Domain\\Accommodation.cs",
+              "ToolTip": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Models\\Domain\\Accommodation.cs",
+              "RelativeToolTip": "ZambiaAPI\\Models\\Domain\\Accommodation.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T20:40:12.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TouristAttractions.cs",
+              "DocumentMoniker": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Models\\Domain\\TouristAttractions.cs",
+              "RelativeDocumentMoniker": "ZambiaAPI\\Models\\Domain\\TouristAttractions.cs",
+              "ToolTip": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Models\\Domain\\TouristAttractions.cs",
+              "RelativeToolTip": "ZambiaAPI\\Models\\Domain\\TouristAttractions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T20:00:34.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Models\\Domain\\Region.cs",
+              "RelativeDocumentMoniker": "ZambiaAPI\\Models\\Domain\\Region.cs",
+              "ToolTip": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Models\\Domain\\Region.cs",
+              "RelativeToolTip": "ZambiaAPI\\Models\\Domain\\Region.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:56:58.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ZambiaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Program.cs",
+              "RelativeToolTip": "ZambiaAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:58:35.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ZambiaAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ZambiaAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T17:56:06.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Models\\Domain\\Rating.cs",
+              "RelativeDocumentMoniker": "ZambiaAPI\\Models\\Domain\\Rating.cs",
+              "ToolTip": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Models\\Domain\\Rating.cs",
+              "RelativeToolTip": "ZambiaAPI\\Models\\Domain\\Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:54:08.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ZambiaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Data\\ZambiaDbContext.cs",
+              "RelativeDocumentMoniker": "ZambiaAPI\\Data\\ZambiaDbContext.cs",
+              "ToolTip": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Data\\ZambiaDbContext.cs",
+              "RelativeToolTip": "ZambiaAPI\\Data\\ZambiaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:26:00.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "ZambiaAPI\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "ZambiaAPI\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:30:53.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ZambiaAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Sambo\\OneDrive\\Documents\\ASP.NET.Core\\Zambia\\ZambiaAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ZambiaAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:23:54.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

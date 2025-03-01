@@ -1,0 +1,6 @@
+@ZambiaAPI_HostAddress = http://localhost:5128
+
+GET {{ZambiaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
